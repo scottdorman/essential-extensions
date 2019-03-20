@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Extension request
 about: Suggest an extension
 title: ''
 labels: ''
