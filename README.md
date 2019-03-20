@@ -46,7 +46,7 @@ An extension pack to improve the Visual Studio editing experience for web develo
 > Some of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they were specific to web development while others in that extension were not.
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensions.Web)
+[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsWeb)
 or get the
 [nightly build](http://vsixgallery.com/extension/673DC35F-A9E2-426B-98AF-27F51190D0B4/). See the
 [changelog](src/EssentialExtensions.Web/CHANGELOG.md)
@@ -71,7 +71,7 @@ for changes and roadmap.
 An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensions.GitHub)
+[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsGitHub)
 or get the
 [nightly build](http://vsixgallery.com/extension/E7813D68-135F-4B0D-828F-5287F3228885/). See the
 [changelog](src/EssentialExtensions.GitHub/CHANGELOG.md)
