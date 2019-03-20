@@ -9,7 +9,7 @@
         <ReleaseNotes>https://github.com/scottdorman/essential-extensions/blob/master/src/EssentialExtensions.Web/CHANGELOG.md</ReleaseNotes>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
-        <Tags>extensions, vsix, install</Tags>
+        <Tags>coding, web, essential-extensions, extensions</Tags>
     </Metadata>
     <Installation>
         <!-- VS 2017 Update 8 and later -->

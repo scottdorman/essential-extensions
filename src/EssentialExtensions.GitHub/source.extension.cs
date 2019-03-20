@@ -13,6 +13,6 @@ namespace EssentialExtensions.GitHub
         public const string Language = "en-US";
         public const string Version = "1.0";
         public const string Author = "Scott Dorman";
-        public const string Tags = "extensions, vsix, install";
+        public const string Tags = "coding, github, source-control, essential-extensions, extensions";
     }
 }
