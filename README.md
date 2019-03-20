@@ -3,13 +3,22 @@ A set of extension packs to create the ultimate Visual Studio editor experience.
 
 Requires Visual Studio 2017 Update 8 or newer.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/54aj4e4tlfvehaxa?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions)
+
 ## Installed Extensions
 Each extension pack in Essential Extensions has a different focus.
 
 ### Essential Extensions (Core)
-These are extensions that create a great general Visual Studio editor experience. 
+An extension pack to improve the core Visual Studio editing experience. 
 
 > A lot of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they weren't specific to web development.
+
+Download the extension at the
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/items?itemName=ScottDorman.EssentialExtensions)
+or get the
+[nightly build](http://vsixgallery.com/extension/B485A30F-B8A4-4508-B2B3-D96D529171DD/). See the
+[changelog](src/EssentialExtensions/CHANGELOG.md)
+for changes and roadmap.
 
 - [Add New File](https://visualstudiogallery.msdn.microsoft.com/3f820e99-6c0d-41db-aa74-a18d9623b1f3)
 - [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
@@ -32,9 +41,16 @@ These are extensions that create a great general Visual Studio editor experience
 - [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 
 ### Essential Extensions (Web)
-These are extensions that create a great Visual Studio editor experience for web development. 
+An extension pack to improve the Visual Studio editing experience for web development.
 
 > Some of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they were specific to web development while others in that extension were not.
+
+Download the extension at the
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/items?itemName=ScottDorman.EssentialExtensions.Web)
+or get the
+[nightly build](http://vsixgallery.com/extension/673DC35F-A9E2-426B-98AF-27F51190D0B4/). See the
+[changelog](src/EssentialExtensions.Web/CHANGELOG.md)
+for changes and roadmap.
 
 - [Browser Reload on Save](https://visualstudiogallery.msdn.microsoft.com/46eef4d9-045b-4596-bd7f-eee980bb5450)
 - [Browser Sync](https://visualstudiogallery.msdn.microsoft.com/5741a548-5179-4a77-ad96-fca71535774d)
@@ -52,7 +68,14 @@ These are extensions that create a great Visual Studio editor experience for web
 - [ZenCoding](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ZenCoding)
 
 ### Essential Extensions (GitHub)
-These are extensions that create a great Visual Studio editor experience for development using GitHub as the source control system.
+An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.
+
+Download the extension at the
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/items?itemName=ScottDorman.EssentialExtensions.GitHub)
+or get the
+[nightly build](http://vsixgallery.com/extension/E7813D68-135F-4B0D-828F-5287F3228885/). See the
+[changelog](src/EssentialExtensions.GitHub/CHANGELOG.md)
+for changes and roadmap.
 
 - [.ignore](https://visualstudiogallery.msdn.microsoft.com/d0eba56d-603b-45ab-a680-edfda585f7f3)
 - [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)

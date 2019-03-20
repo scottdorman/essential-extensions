@@ -11,7 +11,7 @@ namespace EssentialExtensions.Web
         public const string Name = "Essential Extensions Web";
         public const string Description = @"An extension pack to improve the Visual Studio editing experience for web development.";
         public const string Language = "en-US";
-        public const string Version = "0.5";
+        public const string Version = "1.0";
         public const string Author = "Scott Dorman";
         public const string Tags = "extensions, vsix, install";
     }

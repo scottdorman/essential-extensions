@@ -9,9 +9,9 @@ namespace EssentialExtensions.GitHub
     {
         public const string Id = "E7813D68-135F-4B0D-828F-5287F3228885";
         public const string Name = "Essential Extensions GitHub";
-        public const string Description = @"An extension pack to improve the Visual Studio experience with GitHub.";
+        public const string Description = @"An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.";
         public const string Language = "en-US";
-        public const string Version = "0.5";
+        public const string Version = "1.0";
         public const string Author = "Scott Dorman";
         public const string Tags = "extensions, vsix, install";
     }

@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="673DC35F-A9E2-426B-98AF-27F51190D0B4" Version="0.5" Language="en-US" Publisher="Scott Dorman" />
+        <Identity Id="673DC35F-A9E2-426B-98AF-27F51190D0B4" Version="1.0" Language="en-US" Publisher="Scott Dorman" />
         <DisplayName>Essential Extensions Web</DisplayName>
         <Description xml:space="preserve">An extension pack to improve the Visual Studio editing experience for web development.</Description>
         <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>
         <License>Resources\LICENSE</License>
+        <ReleaseNotes>https://github.com/scottdorman/essential-extensions/blob/master/src/EssentialExtensions.Web/CHANGELOG.md</ReleaseNotes>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>extensions, vsix, install</Tags>

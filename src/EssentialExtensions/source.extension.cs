@@ -9,9 +9,9 @@ namespace EssentialExtensions
     {
         public const string Id = "B485A30F-B8A4-4508-B2B3-D96D529171DD";
         public const string Name = "Essential Extensions";
-        public const string Description = @"An extension pack to improve the Visual Studio editing experience.";
+        public const string Description = @"An extension pack to improve the core Visual Studio editing experience.";
         public const string Language = "en-US";
-        public const string Version = "0.5";
+        public const string Version = "1.0";
         public const string Author = "Scott Dorman";
         public const string Tags = "extensions, vsix, install";
     }
