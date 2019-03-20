@@ -14,7 +14,7 @@ An extension pack to improve the core Visual Studio editing experience.
 > A lot of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they weren't specific to web development.
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensions)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensions)
 or get the
 [nightly build](http://vsixgallery.com/extension/B485A30F-B8A4-4508-B2B3-D96D529171DD/). See the
 [changelog](src/EssentialExtensions/CHANGELOG.md)
@@ -46,7 +46,7 @@ An extension pack to improve the Visual Studio editing experience for web develo
 > Some of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they were specific to web development while others in that extension were not.
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsWeb)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsWeb)
 or get the
 [nightly build](http://vsixgallery.com/extension/673DC35F-A9E2-426B-98AF-27F51190D0B4/). See the
 [changelog](src/EssentialExtensions.Web/CHANGELOG.md)
@@ -71,7 +71,7 @@ for changes and roadmap.
 An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.
 
 Download the extension at the
-[VS Gallery](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsGitHub)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ScottDorman.EssentialExtensionsGitHub)
 or get the
 [nightly build](http://vsixgallery.com/extension/E7813D68-135F-4B0D-828F-5287F3228885/). See the
 [changelog](src/EssentialExtensions.GitHub/CHANGELOG.md)
