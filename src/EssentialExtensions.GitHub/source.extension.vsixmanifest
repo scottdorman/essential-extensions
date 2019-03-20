@@ -4,7 +4,7 @@
         <Identity Id="E7813D68-135F-4B0D-828F-5287F3228885" Version="0.5" Language="en-US" Publisher="Scott Dorman" />
         <DisplayName>Essential Extensions GitHub</DisplayName>
         <Description xml:space="preserve">An opinionated set of extensions to improve the Visual Studio experience with GitHub.</Description>
-        <MoreInfo>https://github.com/scottdorman/esssentialextensions</MoreInfo>
+        <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
