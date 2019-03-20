@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Add New File",
+      "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3"
+    },
+    {
+      "name": "Comment Remover",
+      "vsixId": "d7c3f904-cc5a-4d47-aa25-81fb7c36df89"
+    },
+    {
+      "name": "Dummy Text Generator",
+      "vsixId": "0007e9e3-b11a-4d10-8565-9c6ce2ccc286"
+    },
+    {
+      "name": "Editor Guidelines",
+      "vsixId": "Editor_Guidelines.Microsoft Corp..123716ef-b2ed-4fab-bbcf-1d5f84856ca3"
+    },
+    {
+      "name": "EditorConfig Language Service",
+      "vsixId": "1209461d-57f8-46a4-814a-dbe5fecef941"
+    },
+    {
+      "name": "Error Catcher II",
+      "vsixId": "376e6cdc-893d-4ae7-ad93-325575c35301"
+    },
+    {
+      "name": "File Icons",
+      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8"
+    },
+    {
+      "name": "File Nesting",
+      "vsixId": "6c799bc4-0d4c-4172-98bc-5d464b612dca"
+    },
+    {
+      "name": "Image Sprites",
+      "vsixId": "cd92c0c6-2c32-49a3-83ca-0dc767c7d78e"
+    },
+    {
+      "name": "License Header Manager",
+      "vsixId": "4c570677-8476-4d33-bd0c-da36c89287c8"
+    },
+    {
+      "name": "Multi Edit Mode",
+      "vsixId": "MultiEdit..c6fb8e57-fde0-4987-8e7a-5ca9b4beddcb"
+    },
+    {
+      "name": "Open Command Line",
+      "vsixId": "f4ab1e64-5d35-4f06-bad9-bf414f4b3bbb"
+    },
+    {
+      "name": "Pretty Paste",
+      "vsixId": "PasteR..5f7b47b4-c3d1-4252-bc32-ed92bbb93a8d"
+    },
+    {
+      "name": "Productivity Power Tools 2017/2019",
+      "vsixId": "ProductivityPowerPack.0d5b9d71-e118-46de-a20c-555176e53900"
+    },
+    {
+      "name": "Syntax Highlighting Pack",
+      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
+    },
+    {
+      "name": "SVG Viewer",
+      "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f"
+    },
+    {
+      "name": "Trailing Whitespace Visualizer",
+      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
+    },
+    {
+      "name": "Visual Studio Spell Checker (VS2017 and Later)",
+      "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
+    }
+  ]
+}

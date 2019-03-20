@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": ".ignore",
+      "vsixId": "7ac24965-ea21-4108-9cac-6e46394aaaef"
+    },
+    {
+      "name": "GitHub Extension for Visual Studio",
+      "vsixId": "c3d3dc68-c977-411f-b3e8-03b0dccf7dfc"
+    },
+    {
+      "name": "Git Pull",
+      "vsixId": "c71355fb-bd6f-4235-a3b0-0ebaa2bad36f"
+    },
+    {
+      "name": "Markdown Editor",
+      "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
+    }
+  ]
+}

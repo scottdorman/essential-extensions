@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Browser Reload on Save",
+      "vsixId": "2d8aa02a-8810-421f-97b9-86efc573fea3"
+    },
+    {
+      "name": "Browser Sync",
+      "vsixId": "10d9b3af-1338-4c45-bc99-4ec38c3a11fb"
+    },
+    {
+      "name": "Bundler & Minifier",
+      "vsixId": "a0ae318b-4f07-4f71-93cb-f21d3f03c6d3"
+    },
+    {
+      "name": "CSS AutoPrefixer",
+      "vsixId": "7df8a985-0e26-4aab-95fc-f48ee61b086a"
+    },
+    {
+      "name": "CSS Sorter",
+      "vsixId": "87534672-5a41-4ea1-a145-17f1a8f5502a"
+    },
+    {
+      "name": "Editor Enhancements",
+      "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e"
+    },
+    {
+      "name": "Inline Color Picker",
+      "vsixId": "InlineColorPicker.Microsoft.5b11f3ae-dd7e-422e-84bc-5cec46f80687"
+    },
+    {
+      "name": "JavaScript Prettier",
+      "vsixId": "J1da7ad9e-85b3-4a0c-8e45-b2ae59a575a7"
+    },
+    {
+      "name": "Package Installer",
+      "vsixId": "fdd64809-376e-4542-92ce-808a8df06bcc"
+    },
+    {
+      "name": "Package Security Alerts",
+      "vsixId": "1fd37423-142f-4267-8221-93163d573b90"
+    },
+    {
+      "name": "TypeScript Definition Generator",
+      "vsixId": "cad7b20b-4b83-4ca6-bf24-ca36a494241c"
+    },
+    {
+      "name": "Web Accessibility Checker",
+      "vsixId": "25a79d25-0fff-4748-afaa-3a67ed116bc9"
+    },
+    {
+      "name": "Web Compiler",
+      "vsixId": "148ffa77-d70a-407f-892b-9ee542346862"
+    },
+    {
+      "name": "ZenCoding",
+      "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf"
+    }
+  ]
+}
