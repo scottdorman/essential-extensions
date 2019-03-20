@@ -4,7 +4,7 @@ install:
 - ps: (new-object Net.WebClient).DownloadString("https://raw.github.com/madskristensen/ExtensionScripts/master/AppVeyor/vsix.ps1") | iex
 
 before_build:
-  - ps: Vsix-IncrementVsixVersion **\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
+  - ps: Vsix-IncrementVsixVersion src\**\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
   - ps: Vsix-TokenReplacement src\EssentialExtensions\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
   - ps: Vsix-TokenReplacement src\EssentialExtensions.Web\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
   - ps: Vsix-TokenReplacement src\EssentialExtensions.GitHub\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
