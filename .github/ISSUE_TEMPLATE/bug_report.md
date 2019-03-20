@@ -1,8 +1,11 @@
-## Suggest an extension:
-Add the name and a link to the VS Gallery download page.
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-
-...or report a bug:
+---
 
 ### Installed product versions
 - Visual Studio: [example 2015 Professional]
