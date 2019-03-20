@@ -121,7 +121,7 @@
     <value>Essential Extensions Web</value>
   </data>
   <data name="112" xml:space="preserve">
-    <value>An opinionated set of extensions to improve the Visual Studio editing experience for web development</value>
+    <value>An extension pack to improve the Visual Studio editing experience for web development.</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="400" type="System.Resources.ResXFileRef, System.Windows.Forms">

@@ -9,7 +9,7 @@ namespace EssentialExtensions.Web
     {
         public const string Id = "673DC35F-A9E2-426B-98AF-27F51190D0B4";
         public const string Name = "Essential Extensions Web";
-        public const string Description = @"An opinionated set of extensions to improve the Visual Studio editing experience for web development";
+        public const string Description = @"An extension pack to improve the Visual Studio editing experience for web development.";
         public const string Language = "en-US";
         public const string Version = "0.5";
         public const string Author = "Scott Dorman";

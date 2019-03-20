@@ -1,12 +1,10 @@
 # Essential Extensions
-An set of opinionated "meta extensions" that install other extensions to create the ultimate Visual Studio editor experience. 
-
-These are the extensions that I've found most useful in my day-to-day development. 
+A set of extension packs to create the ultimate Visual Studio editor experience. These are the extensions that I've found most useful in my day-to-day development. 
 
 Requires Visual Studio 2017 Update 8 or newer.
 
 ## Installed Extensions
-Essential Extensions is currently split into three different extension packages, each one with a different focus.
+Each extension pack in Essential Extensions has a different focus.
 
 ### Essential Extensions (Core)
 These are extensions that create a great general Visual Studio editor experience. 
