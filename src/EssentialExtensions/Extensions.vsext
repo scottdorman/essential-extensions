@@ -38,6 +38,10 @@
       "vsixId": "cd92c0c6-2c32-49a3-83ca-0dc767c7d78e"
     },
     {
+      "name": "Insert Guid",
+      "vsixId": "9def4441-acfd-4dd6-bffd-4531a57dee37"
+    },
+    {
       "name": "License Header Manager",
       "vsixId": "4c570677-8476-4d33-bd0c-da36c89287c8"
     },
