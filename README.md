@@ -30,6 +30,7 @@ for changes and roadmap.
 - [File Nesting](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting)
 - [Image Sprites](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageSprites)
 - [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer)
+- [Insert Guid](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.insertguid)
 - [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
 - [Multi Edit Mode](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MultiEditMode)
 - [Open Command Line](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
