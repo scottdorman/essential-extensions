@@ -4,12 +4,13 @@ install:
 - ps: (new-object Net.WebClient).DownloadString("https://raw.github.com/madskristensen/ExtensionScripts/master/AppVeyor/vsix.ps1") | iex
 
 before_build:
-#  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
-#  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions.Web\source.extension.vsixmanifest
-#  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions.GitHub\source.extension.vsixmanifest
-  - ps: Vsix-TokenReplacement src\EssentialExtensions\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
-  - ps: Vsix-TokenReplacement src\EssentialExtensions.Web\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
-  - ps: Vsix-TokenReplacement src\EssentialExtensions.GitHub\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
+  - ps: >-
+      Vsix-IncrementVsixVersion src\EssentialExtensions\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
+      Vsix-IncrementVsixVersion src\EssentialExtensions.Web\source.extension.vsixmanifest
+      Vsix-IncrementVsixVersion src\EssentialExtensions.GitHub\source.extension.vsixmanifest
+      Vsix-TokenReplacement src\EssentialExtensions\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
+      Vsix-TokenReplacement src\EssentialExtensions.Web\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
+      Vsix-TokenReplacement src\EssentialExtensions.GitHub\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
 
 build_script:
   - nuget restore -Verbosity quiet
