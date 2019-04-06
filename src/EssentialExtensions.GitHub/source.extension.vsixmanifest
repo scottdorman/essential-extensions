@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
-  <Metadata>
-    <Identity Id="E7813D68-135F-4B0D-828F-5287F3228885" Version="1.1" Language="en-US" Publisher="Scott Dorman" />
-    <DisplayName>Essential Extensions GitHub</DisplayName>
-    <Description xml:space="preserve">An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.</Description>
-    <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>
-    <License>Resources\LICENSE</License>
-    <ReleaseNotes>https://github.com/scottdorman/essential-extensions/blob/master/src/EssentialExtensions.GitHub/CHANGELOG.md</ReleaseNotes>
-    <Icon>Resources\Icon.png</Icon>
-    <PreviewImage>Resources\Icon.png</PreviewImage>
-    <Tags>coding, github, source-control, essential-extensions, extensions</Tags>
-  </Metadata>
-  <Installation>
-    <!-- VS 2017 Update 8 and later -->
-    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,17.0)" />
-  </Installation>
-  <Prerequisites>
-    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[14.0,17.0)" DisplayName="Visual Studio core editor" />
-  </Prerequisites>
-  <Assets>
-    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
-  </Assets>
+    <Metadata>
+        <Identity Id="E7813D68-135F-4B0D-828F-5287F3228885" Version="1.0" Language="en-US" Publisher="Scott Dorman" />
+        <DisplayName>Essential Extensions GitHub</DisplayName>
+        <Description xml:space="preserve">An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.</Description>
+        <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>
+        <License>Resources\LICENSE</License>
+        <ReleaseNotes>https://github.com/scottdorman/essential-extensions/blob/master/src/EssentialExtensions.GitHub/CHANGELOG.md</ReleaseNotes>
+        <Icon>Resources\Icon.png</Icon>
+        <PreviewImage>Resources\Icon.png</PreviewImage>
+        <Tags>coding, github, source-control, essential-extensions, extensions</Tags>
+    </Metadata>
+    <Installation>
+        <!-- VS 2017 Update 8 and later -->
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,17.0)" />
+    </Installation>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[14.0,17.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    </Assets>
 </PackageManifest>
