@@ -7,12 +7,12 @@ install:
 - ps: (new-object Net.WebClient).DownloadString("https://raw.github.com/madskristensen/ExtensionScripts/master/AppVeyor/vsix.ps1") | iex
 
 before_build:
-  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions.Web\source.extension.vsixmanifest
+  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions.Web\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
   - ps: Vsix-TokenReplacement src\EssentialExtensions.Web\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
 
 build_script:
   - nuget restore -Verbosity quiet
-  - msbuild /p:configuration=Release /p:DeployExtension=false /p:ZipPackageCompressionLevel=normal /v:m
+  - msbuild src\EssentialExtensions.Web\EssentialExtensions.Web.csproj /p:configuration=Release /p:DeployExtension=false /p:ZipPackageCompressionLevel=normal /v:m
 
 after_test:
   - ps: Vsix-PushArtifacts | Vsix-PublishToGallery
