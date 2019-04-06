@@ -3,12 +3,12 @@ A set of extension packs to create the ultimate Visual Studio editor experience.
 
 Requires Visual Studio 2017 Update 8 or newer.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/54aj4e4tlfvehaxa?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions)
-
 ## Installed Extensions
 Each extension pack in Essential Extensions has a different focus.
 
 ### Essential Extensions (Core)
+[![Build status](https://ci.appveyor.com/api/projects/status/54aj4e4tlfvehaxa?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions)
+
 An extension pack to improve the core Visual Studio editing experience. 
 
 > A lot of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they weren't specific to web development.
@@ -42,6 +42,8 @@ for changes and roadmap.
 - [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 
 ### Essential Extensions (Web)
+[![Build status](https://ci.appveyor.com/api/projects/status/h2m5jjwpj1ddqluh?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions-lh0vv)
+
 An extension pack to improve the Visual Studio editing experience for web development.
 
 > Some of these extensions are also bundled as part of [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019). I chose to split them out separately since they were specific to web development while others in that extension were not.
@@ -69,6 +71,8 @@ for changes and roadmap.
 - [ZenCoding](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ZenCoding)
 
 ### Essential Extensions (GitHub)
+[![Build status](https://ci.appveyor.com/api/projects/status/ltp20h37x64a5n3a?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions-jhdh4)
+
 An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.
 
 Download the extension at the
