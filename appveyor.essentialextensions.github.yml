@@ -1,14 +1,14 @@
 image: Visual Studio 2019 Preview
 
 build:
-   project: src\EssentialExtensions\EssentialExtensions.csproj
+   project: src\EssentialExtensions.GitHub\EssentialExtensions.GitHub.csproj
 
 install:
 - ps: (new-object Net.WebClient).DownloadString("https://raw.github.com/madskristensen/ExtensionScripts/master/AppVeyor/vsix.ps1") | iex
 
 before_build:
-  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions\source.extension.vsixmanifest | Vsix-UpdateBuildVersion
-  - ps: Vsix-TokenReplacement src\EssentialExtensions\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
+  - ps: Vsix-IncrementVsixVersion src\EssentialExtensions.GitHub\source.extension.vsixmanifest
+  - ps: Vsix-TokenReplacement src\EssentialExtensions.GitHub\source.extension.cs 'Version = "([0-9\\.]+)"' 'Version = "{version}"'
 
 build_script:
   - nuget restore -Verbosity quiet
