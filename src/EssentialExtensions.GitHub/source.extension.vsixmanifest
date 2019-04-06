@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="E7813D68-135F-4B0D-828F-5287F3228885" Version="1.0" Language="en-US" Publisher="Scott Dorman" />
+        <Identity Id="E7813D68-135F-4B0D-828F-5287F3228885" Version="1.1" Language="en-US" Publisher="Scott Dorman" />
         <DisplayName>Essential Extensions GitHub</DisplayName>
         <Description xml:space="preserve">An extension pack to improve the Visual Studio experience for development using GitHub as the source control system.</Description>
         <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>
