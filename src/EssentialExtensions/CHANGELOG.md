@@ -4,6 +4,7 @@ Features that have a checkmark are complete and available for
 download in the
 [nightly build](http://vsixgallery.com/extension/B485A30F-B8A4-4508-B2B3-D96D529171DD/).
 
+- [x] Find in Solution Explorer
 - [x] Insert Guid
 
 # Changelog

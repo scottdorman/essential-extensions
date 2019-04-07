@@ -34,6 +34,10 @@
       "vsixId": "6c799bc4-0d4c-4172-98bc-5d464b612dca"
     },
     {
+      "name": "Find in Solution Explorer",
+      "vsixId": "Tvl.VisualStudio.FindInSolutionExplorer.E528F3A5-318E-4F77-BC25-888236886F93"
+    },
+    {
       "name": "Image Sprites",
       "vsixId": "cd92c0c6-2c32-49a3-83ca-0dc767c7d78e"
     },
