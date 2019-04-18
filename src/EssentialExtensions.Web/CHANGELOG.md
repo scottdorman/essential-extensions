@@ -8,6 +8,12 @@ download in the
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.1
+**2019-04-17**
+- [x] CSS Tools 2019 (For Visual Studio 2019)
+- [x] CSS Tools (For Visual Studio 2017)
+- [x] HTML Tools (For Visual 2017) 
+
 ## 1.0
 **2019-03-20**
 - [x] Browser Reload on Save

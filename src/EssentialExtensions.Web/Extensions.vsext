@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "extensions": [
     {
       "name": "Browser Reload on Save",
@@ -22,8 +22,20 @@
       "vsixId": "87534672-5a41-4ea1-a145-17f1a8f5502a"
     },
     {
+      "name": "CSS Tools 2019",
+      "vsixId": "1c63270f-485d-4810-99b8-e9d9de82610c"
+    },
+    {
+      "name": "CSS Tools",
+      "vsixId": "0020efc9-e999-4e6f-a2b6-604127f480bc"
+    },
+    {
       "name": "Editor Enhancements",
       "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e"
+    },
+    {
+      "name": "HTML Tools",
+      "vsixId": "3cef2919-d8c7-4e9f-a809-5a0ba9c61fac"
     },
     {
       "name": "Inline Color Picker",
