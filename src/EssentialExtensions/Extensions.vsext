@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "extensions": [
     {
       "name": "Add New File",
@@ -80,6 +80,10 @@
     {
       "name": "Visual Studio Spell Checker (VS2017 and Later)",
       "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
+    },
+    {
+      "name": "Visual Studio IntelliCode",
+      "vsixId": "IntelliCode.VSIX.598224b2-b987-401b-8509-f568d0c0b946"
     }
   ]
 }

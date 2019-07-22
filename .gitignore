@@ -7,6 +7,7 @@ template-report.xml
 *.user
 *.sln.docstates
 .vs/
+.vshistory/
 
 # Build results
 

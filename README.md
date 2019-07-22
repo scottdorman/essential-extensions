@@ -40,6 +40,7 @@ for changes and roadmap.
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SvgViewer)
 - [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 - [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 
 ### Essential Extensions (Web)
 [![Build status](https://ci.appveyor.com/api/projects/status/h2m5jjwpj1ddqluh?svg=true)](https://ci.appveyor.com/project/scottdorman/essential-extensions-lh0vv)
@@ -63,6 +64,7 @@ for changes and roadmap.
 - [CSS Tools 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CssTools2019) (Visual Studio 2019)
 - [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSTools) (Visual Studio 2017)
 - [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements)
+- [HTML Tools 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools2019) (Visual Studio 2019)
 - [HTML Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools) (Visual Studio 2017)
 - [Inline Color Picker](https://marketplace.visualstudio.com/items?itemName=NikolaMSFT.InlineColorPicker)
 - [JavaScript Prettier](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptPrettier)

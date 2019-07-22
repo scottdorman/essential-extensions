@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="B485A30F-B8A4-4508-B2B3-D96D529171DD" Version="1.1" Language="en-US" Publisher="Scott Dorman" />
+        <Identity Id="B485A30F-B8A4-4508-B2B3-D96D529171DD" Version="1.2" Language="en-US" Publisher="Scott Dorman" />
         <DisplayName>Essential Extensions</DisplayName>
         <Description xml:space="preserve">An extension pack to improve the core Visual Studio editing experience.</Description>
         <MoreInfo>https://github.com/scottdorman/essential-extensions</MoreInfo>

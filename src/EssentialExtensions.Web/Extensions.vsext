@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "extensions": [
     {
       "name": "Browser Reload on Save",
@@ -32,6 +32,10 @@
     {
       "name": "Editor Enhancements",
       "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e"
+    },
+    {
+      "name": "HTML Tools 2019",
+      "vsixId": "8682fae0-2ce9-49ea-93b5-edc92c118e2a"
     },
     {
       "name": "HTML Tools",
