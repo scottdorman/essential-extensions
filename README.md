@@ -20,6 +20,7 @@ or get the
 [changelog](src/EssentialExtensions/CHANGELOG.md)
 for changes and roadmap.
 
+- [.ignore](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 - [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 - [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
 - [Dummy Text Generator](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
