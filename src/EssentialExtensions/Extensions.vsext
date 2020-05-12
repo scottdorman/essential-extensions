@@ -1,6 +1,10 @@
 {
-  "version": "1.0",
+  "version": "1.3",
   "extensions": [
+    {
+      "name": ".ignore",
+      "vsixId": "7ac24965-ea21-4108-9cac-6e46394aaaef"
+    },
     {
       "name": "Add New File",
       "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3"
@@ -34,6 +38,10 @@
       "vsixId": "6c799bc4-0d4c-4172-98bc-5d464b612dca"
     },
     {
+      "name": "Find in Solution Explorer",
+      "vsixId": "Tvl.VisualStudio.FindInSolutionExplorer.E528F3A5-318E-4F77-BC25-888236886F93"
+    },
+    {
       "name": "Image Sprites",
       "vsixId": "cd92c0c6-2c32-49a3-83ca-0dc767c7d78e"
     },
@@ -44,6 +52,14 @@
     {
       "name": "License Header Manager",
       "vsixId": "4c570677-8476-4d33-bd0c-da36c89287c8"
+    },
+    {
+      "name": "Microsoft Code Analysis 2017",
+      "vsixId": "4db2d63d-3320-4fbd-bf80-07f8d1500bd3"
+    },
+    {
+      "name": "Microsoft Code Analysis 2019",
+      "vsixId": "16454f43-db71-416c-a4f6-b168864a5abf"
     },
     {
       "name": "Multi Edit Mode",
@@ -62,26 +78,6 @@
       "vsixId": "ProductivityPowerPack.0d5b9d71-e118-46de-a20c-555176e53900"
     },
     {
-      "name": "Syntax Highlighting Pack",
-      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
-    },
-    {
-      "name": "SVG Viewer",
-      "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f"
-    },
-    {
-      "name": "Trailing Whitespace Visualizer",
-      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
-    },
-    {
-      "name": "Visual Studio Spell Checker (VS2017 and Later)",
-      "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
-    },
-    {
-      "name": ".ignore",
-      "vsixId": "7ac24965-ea21-4108-9cac-6e46394aaaef"
-    },
-    {
       "name": "Reset Tool Windows",
       "vsixId": "MadsKristensen.ResetToolWindow"
     },
@@ -94,12 +90,24 @@
       "vsixId": "SourceServerBrowser.6e619515-6920-4983-ad65-f6bc7fca6694"
     },
     {
-      "name": "Microsoft Code Analysis 2017",
-      "vsixId": "4db2d63d-3320-4fbd-bf80-07f8d1500bd3"
+      "name": "Syntax Highlighting Pack",
+      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
     },
     {
-      "name": "Microsoft Code Analysis 2019",
-      "vsixId": "16454f43-db71-416c-a4f6-b168864a5abf"
+      "name": "SVG Viewer",
+      "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f"
+    },
+    {
+      "name": "Trailing Whitespace Visualizer",
+      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
+    },
+    {
+      "name": "Visual Studio IntelliCode",
+      "vsixId": "IntelliCode.VSIX.598224b2-b987-401b-8509-f568d0c0b946"
+    },
+    {
+      "name": "Visual Studio Spell Checker (VS2017 and Later)",
+      "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
     }
   ]
 }

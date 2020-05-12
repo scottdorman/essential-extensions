@@ -4,19 +4,29 @@ Features that have a checkmark are complete and available for
 download in the
 [nightly build](http://vsixgallery.com/extension/B485A30F-B8A4-4508-B2B3-D96D529171DD/).
 
+- [x] Find in Solution Explorer
 - [x] Insert Guid
 
 # Changelog
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
-## 1.1
+## 1.3
 **2020-05-12**
 - [x] .ignore
+- [x] Microsoft Code Analysis (2019, 2017)
 - [x] Reset Tool Windows
 - [x] Show Selection Length
 - [x] Source Server Browser Power Tool
-- [x] Microsoft Code Analysis (2019, 2017)
+
+## 1.2
+**2019-07-22**
+- [x] Visual Studio IntelliCode
+
+## 1.1
+**2019-04-17**
+- [x] Find in Solution Explorer
+- [x] Insert Guid
 
 ## 1.0
 **2019-03-20**
@@ -30,7 +40,7 @@ on the official Visual Studio extension gallery.
 - [x] Image Sprites
 - [x] Image Optimizer
 - [x] License Header Manager
-- [x] Multi Edit Mode
+- [x] Multi Edit Mode (Visual Studio 2017)
 - [x] Open Command Line
 - [x] Pretty Paste
 - [x] Productivity Power Tools
