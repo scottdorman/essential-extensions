@@ -10,6 +10,14 @@ download in the
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.1
+**2020-05-12**
+- [x] .ignore
+- [x] Reset Tool Windows
+- [x] Show Selection Length
+- [x] Source Server Browser Power Tool
+- [x] Microsoft Code Analysis (2019, 2017)
+
 ## 1.0
 **2019-03-20**
 - [x] Add New File

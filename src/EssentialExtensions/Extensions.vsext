@@ -76,6 +76,30 @@
     {
       "name": "Visual Studio Spell Checker (VS2017 and Later)",
       "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748"
+    },
+    {
+      "name": ".ignore",
+      "vsixId": "7ac24965-ea21-4108-9cac-6e46394aaaef"
+    },
+    {
+      "name": "Reset Tool Windows",
+      "vsixId": "MadsKristensen.ResetToolWindow"
+    },
+    {
+      "name": "Show Selection Length",
+      "vsixId": "c2ffcafd-dc47-4a4f-ba6b-07bcd6f2b0b6"
+    },
+    {
+      "name": "Source Server Browser Power Tool",
+      "vsixId": "SourceServerBrowser.6e619515-6920-4983-ad65-f6bc7fca6694"
+    },
+    {
+      "name": "Microsoft Code Analysis 2017",
+      "vsixId": "4db2d63d-3320-4fbd-bf80-07f8d1500bd3"
+    },
+    {
+      "name": "Microsoft Code Analysis 2019",
+      "vsixId": "16454f43-db71-416c-a4f6-b168864a5abf"
     }
   ]
 }

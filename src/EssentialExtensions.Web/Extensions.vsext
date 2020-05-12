@@ -56,6 +56,26 @@
     {
       "name": "ZenCoding",
       "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf"
+    },
+    {
+      "name": "Glyphfriend",
+      "vsixId": "Glyphfriend.VS2019.RionWilliams.da26054d-2c11-4d71-87c2-a4fa188a09c2"
+    },
+    {
+      "name": "CSS Tools 2019",
+      "vsixId": "1c63270f-485d-4810-99b8-e9d9de82610c"
+    },
+    {
+      "name": "CSS Tools",
+      "vsixId": "0020efc9-e999-4e6f-a2b6-604127f480bc"
+    },
+    {
+      "name": "HTML Tools 2019",
+      "vsixId": "8682fae0-2ce9-49ea-93b5-edc92c118e2a"
+    },
+    {
+      "name": "HTML Tools",
+      "vsixId": "3cef2919-d8c7-4e9f-a809-5a0ba9c61fac"
     }
   ]
 }

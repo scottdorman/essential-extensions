@@ -7,6 +7,11 @@ download in the
 # Changelog
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
+## 1.1
+**2020-05-12**
+- [x] Glyphfriend 2019
+- [x] CSS Tools
+- [x] HTML Tools
 
 ## 1.0
 **2019-03-20**
