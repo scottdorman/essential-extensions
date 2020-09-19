@@ -8,6 +8,12 @@ download in the
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.4
+**2020-09-19**
+- [x] Image Sprites
+- [x] Image Optimizer
+- [x] SVG Viewer
+
 ## 1.3
 **2020-05-12**
 - [x] Glyphfriend 2019

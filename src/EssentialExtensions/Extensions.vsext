@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "extensions": [
     {
       "name": ".ignore",
@@ -16,6 +16,10 @@
     {
       "name": "Dummy Text Generator",
       "vsixId": "0007e9e3-b11a-4d10-8565-9c6ce2ccc286"
+    },
+    {
+      "name": "Editor Enhancements",
+      "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e"
     },
     {
       "name": "Editor Guidelines",
@@ -38,20 +42,16 @@
       "vsixId": "6c799bc4-0d4c-4172-98bc-5d464b612dca"
     },
     {
-      "name": "Find in Solution Explorer",
-      "vsixId": "Tvl.VisualStudio.FindInSolutionExplorer.E528F3A5-318E-4F77-BC25-888236886F93"
-    },
-    {
-      "name": "Image Sprites",
-      "vsixId": "cd92c0c6-2c32-49a3-83ca-0dc767c7d78e"
-    },
-    {
       "name": "Insert Guid",
       "vsixId": "9def4441-acfd-4dd6-bffd-4531a57dee37"
     },
     {
       "name": "License Header Manager",
       "vsixId": "4c570677-8476-4d33-bd0c-da36c89287c8"
+    },
+    {
+      "name": "Markdown Editor",
+      "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
     },
     {
       "name": "Microsoft Code Analysis 2017",
@@ -68,6 +68,10 @@
     {
       "name": "Open Command Line",
       "vsixId": "f4ab1e64-5d35-4f06-bad9-bf414f4b3bbb"
+    },
+    {
+      "name": "Output Enhancer",
+      "vsixId": "VSOutputEnhancer.Nikolay Balakin.a06be4c3-f97e-425c-8a0d-bdef08ac2abb"
     },
     {
       "name": "Pretty Paste",
@@ -90,16 +94,20 @@
       "vsixId": "SourceServerBrowser.6e619515-6920-4983-ad65-f6bc7fca6694"
     },
     {
-      "name": "Syntax Highlighting Pack",
-      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
-    },
-    {
       "name": "SVG Viewer",
       "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f"
     },
     {
+      "name": "Syntax Highlighting Pack",
+      "vsixId": "4773ce75-6f30-4269-9557-1f7c30a47be2"
+    },
+    {
       "name": "Trailing Whitespace Visualizer",
       "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
+    },
+    {
+      "name": "Tweaks",
+      "vsixId": "0c8bd9fa-77d5-4563-ab57-9e01608c3d04"
     },
     {
       "name": "Visual Studio IntelliCode",

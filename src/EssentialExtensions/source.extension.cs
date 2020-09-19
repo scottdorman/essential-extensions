@@ -11,7 +11,7 @@ namespace EssentialExtensions
         public const string Name = "Essential Extensions";
         public const string Description = @"An extension pack to improve the core Visual Studio editing experience.";
         public const string Language = "en-US";
-        public const string Version = "1.3";
+        public const string Version = "1.4";
         public const string Author = "Scott Dorman";
         public const string Tags = "coding, editor, essential-extensions, extensions";
     }

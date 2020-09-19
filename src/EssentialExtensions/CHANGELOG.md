@@ -4,12 +4,18 @@ Features that have a checkmark are complete and available for
 download in the
 [nightly build](http://vsixgallery.com/extension/B485A30F-B8A4-4508-B2B3-D96D529171DD/).
 
-- [x] Find in Solution Explorer
-- [x] Insert Guid
-
 # Changelog
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
+
+## 1.4
+**2020-09-19**
+- [x] Tweaks
+- [x] Output Enhancer
+- [x] Editor Enhancements
+- [x] Markdown Editor
+- [x] Image Sprites ***moved to EssentialExtensions.Web***
+- [x] Image Optimizer ***moved to EssentialExtensions.Web***
 
 ## 1.3
 **2020-05-12**
